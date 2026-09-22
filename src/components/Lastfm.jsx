@@ -44,7 +44,7 @@ function LastFM() {
     return (
         <div class="relative w-full lg:p-8 xs:p-4" id="listening" >
             <div>
-                <img src={track.image[3]["#text"]} alt={`Cover of ${track.name}`} class="absolute xs:left-10 xs:top-6 xs:w-auto lg:w-30 lg:left-1/2 lg:top-3 -translate-x-1/2 z-20" />
+                <img src={track.image[3]["#text"]} alt={`Cover of ${track.name}`} class="absolute xs:left-10 xs:top-5 xs:w-18 lg:w-30 lg:left-1/2 lg:top-3 -translate-x-1/2 z-20" />
                 <img src={cd} alt="" class={`absolute xs:left-6 xs:top-7 xs:max-w-15 lg:left-42 lg:max-w-26 lg:top-6 z-10 ${isPlaying ? "animate-spin" : ""}`} />
             </div>
 
