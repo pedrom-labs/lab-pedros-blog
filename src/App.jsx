@@ -3,14 +3,15 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Home, Blog, WhoIam, Books, Arts, Games, Mineblog, NotFound } from './pages';
 import FirtsPost from './posts/links-posts/Firtspost';
 import PlayedMarcelo from './posts/links-posts/PlayedMarcelo';
+import TheThing from './posts/links-posts/TheThing';
 import { Background, Stickers, MusicBackground } from './components';
 import './App.css';
 import { rainbowCursor } from "cursor-effects";
 
 function App() {
   const [message, setMessage] = useState('');
-  
-  
+
+
   useEffect(() => {
     if (!message) return;
 
@@ -22,7 +23,7 @@ function App() {
     e.preventDefault();
     setMessage('pls do not try to steal any part of the code! If you want to view the code, feel free to use F12!');
   };
-  
+
 
 
   return (
@@ -41,6 +42,7 @@ function App() {
             <Route path="/mineblog" element={<Mineblog />} />
             <Route path="/firtspost" element={<FirtsPost />} />
             <Route path="/playmarcelo" element={<PlayedMarcelo />} />
+            <Route path="/the-things" element={<TheThing />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </Background>
