@@ -1,8 +1,38 @@
 [
-    {"title": "Banjo-Kazooie", "img": "./games/banjo.png", "year": "1998", "platform": "Nintendo 64"},
-    {"title": "Bombun", "img": "./games/bombun.png", "year": "2026", "platform": "PC"},
-    {"title": "Cuisineer", "img": "./games/cuisineer.png", "year": "2023", "platform": "PC"},
-    {"title": "Hey You, Pikachu!", "img": "./games/hyp.png", "year": "1998", "platform": "Nintendo 64"},
-    {"title": "Pokémon Pokopia", "img": "./games/pokopia.png", "year": "2026", "platform": "Nintendo Switch 2"},
-    {"title": "Ocarina of Time", "img": "./games/oot.png", "year": "1998", "platform": "Nintendo 64"}
+  {
+    "title": "Pokémon XD",
+    "img": "https://cdn2.steamgriddb.com/thumb/7ffb495169d85f0505b894fa685a79f8.jpg",
+    "year": "2005",
+    "platform": "Gamecube"
+  },
+  {
+    "title": "Rhythm Heaven Fever",
+    "img": "https://cdn2.steamgriddb.com/thumb/cb8653380b212fffc4e4cd2e6144bd94.jpg",
+    "year": "2011",
+    "platform": "Wii"
+  },
+  {
+    "title": "Hey You, Pikachu!",
+    "img": "./games/hyp.png",
+    "year": "1998",
+    "platform": "Nintendo 64"
+  },
+  {
+    "title": "Bombun",
+    "img": "./games/bombun.png",
+    "year": "2026",
+    "platform": "PC"
+  },
+  {
+    "title": "Pokémon Pokopia",
+    "img": "./games/pokopia.png",
+    "year": "2026",
+    "platform": "Nintendo Switch 2"
+  },
+  {
+    "title": "Ocarina of Time",
+    "img": "./games/oot.png",
+    "year": "1998",
+    "platform": "Nintendo 64"
+  }
 ]

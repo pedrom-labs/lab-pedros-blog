@@ -1,3 +1,26 @@
 [
-    {"title": "Cotl: Woolhaven", "img": "./games/cotl_wh.jpg", "year": "2026", "platform": "PC"}
+  {
+    "title": "TBOI: Repentace",
+    "img": "./games/tboi.png",
+    "year": "2020",
+    "platform": "PC"
+  },
+  {
+    "title": "Mewgenics",
+    "img": "https://cdn2.steamgriddb.com/thumb/9540c301770b9ea54f43649a8e10e2aa.jpg",
+    "year": "2026",
+    "platform": "PC"
+  },
+  {
+    "title": "Zelda TP",
+    "img": "https://cdn2.steamgriddb.com/thumb/36d6a670240681fbbf69cbba0c9065ce.jpg",
+    "year": "2006",
+    "platform": "Gamecube"
+  },
+  {
+    "title": "Animal Crossing NH",
+    "img": "https://cdn2.steamgriddb.com/thumb/078d2a1275f0d53cda67d165440aeb50.jpg",
+    "year": "2020",
+    "platform": "Switch 2"
+  }
 ]

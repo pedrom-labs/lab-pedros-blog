@@ -1,10 +1,56 @@
 [
-    {"title": "Bombun", "img": "./games/bombun.png", "year": "2026", "platform": "PC"},
-    {"title": "Cuisineer", "img": "./games/cuisineer.png", "year": "2023", "platform": "PC"},
-    {"title": "Dead as Disco", "img": "./games/dad.png", "year": "2026", "platform": "PC"},
-    {"title": "Haste", "img": "./games/haste.jpg", "year": "2025", "platform": "PC"},
-    {"title": "Killing Floor 3", "img": "./games/kf3.png", "year": "2025", "platform": "PC"},
-    {"title": "Little Nightmares III", "img": "./games/ln3.png", "year": "2025", "platform": "PC"},
-    {"title": "Snacko", "img": "./games/snacko.png", "year": "2025", "platform": "PC"},
-    {"title": "The Last of Us 2", "img": "./games/tlou2r.png", "year": "2025", "platform": "PC"}
+  {
+    "title": "Starboy Adventures",
+    "img": "./games/starboy.jpg",
+    "year": "TBA",
+    "platform": "PC"
+  },
+  {
+    "title": "Bombun",
+    "img": "./games/bombun.png",
+    "year": "2026",
+    "platform": "PC"
+  },
+  {
+    "title": "Cuisineer",
+    "img": "./games/cuisineer.png",
+    "year": "2023",
+    "platform": "PC"
+  },
+  {
+    "title": "Little Nightmares III",
+    "img": "./games/ln3.png",
+    "year": "2025",
+    "platform": "PC"
+  },
+  {
+    "title": "Killing Floor 3",
+    "img": "./games/kf3.png",
+    "year": "2025",
+    "platform": "PC"
+  },
+  {
+    "title": "Snacko",
+    "img": "./games/snacko.png",
+    "year": "2025",
+    "platform": "PC"
+  },
+  {
+    "title": "Haste",
+    "img": "./games/haste.jpg",
+    "year": "2025",
+    "platform": "PC"
+  },
+  {
+    "title": "The Last of Us Part II Remastered",
+    "img": "./games/tlou2r.png",
+    "year": "2025",
+    "platform": "PC"
+  },
+  {
+    "title": "Dead as Disco",
+    "img": "./games/dad.png",
+    "year": "2026",
+    "platform": "PC"
+  }
 ]

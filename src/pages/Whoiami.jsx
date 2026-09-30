@@ -39,6 +39,32 @@ function WhoIam() {
                         </div>
                     </Container>
                 </div >
+                <div class="grid lg:grid-cols-3 xs:grid-cols-1 gap-2">
+                    <Container>
+                        <h1 class="text-xl">Things that inspire me</h1>
+                        <div class="p-4">
+                            <ul>
+                                <li>My Family</li>
+                                <li>My Girlfriend</li>
+                                <li>Jaiden Animations</li>
+                                <li>Viniccius13</li>
+                                <li>Coelho Rosa</li>
+                            </ul>
+                        </div>
+                    </Container>
+                    <Container>
+                        <h1 class="text-xl">Some Photos i Like</h1>
+                        <div class="flex snap-x snap-mandatory gap-1 overflow-x-auto" dir="ltr">
+                            <img src="/img-whoiam/mylovewithme.jpg" class=" object-cover rounded-lg shrink-0 snap-center h-120" />
+                            <img src="/img-whoiam/catowo.jpg" class=" object-cover rounded-lg shrink-0 snap-center h-120" />
+                            <img src="/img-whoiam/totadawitchika.jpeg" class=" object-cover rounded-lg shrink-0 snap-center h-120" />
+                        </div>
+                    </Container>
+                    <Container>
+                        <h1 class="text-xl">Things i Like</h1>
+
+                    </Container>
+                </div>
             </Divmain >
         </>
     )

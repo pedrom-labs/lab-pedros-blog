@@ -46,10 +46,22 @@ function Home() {
             <div class="grid lg:grid-cols-2 p-2 gap-3 momento_div">
               <Container>
                 <h2 class="text-xl">Games I've been playing!</h2>
-                <div class="flex p-4 gap-2 justify-center">
-                  <div class="h-72 grid items-center content-center">
+                <div class="flex w-full min-w-0 gap-2 overflow-x-auto snap-x snap-mandatory p-4">
+                  <div class="w-40 shrink-0 snap-start">
                     <img src="./games/tboi.png" class="w-40 h-60" />
                     <p class="text-md text-center">TBOI: Rebirth</p>
+                  </div>
+                  <div class="w-40 shrink-0 snap-start">
+                    <img src="https://cdn2.steamgriddb.com/thumb/9540c301770b9ea54f43649a8e10e2aa.jpg" class="w-40 h-60" />
+                    <p class="text-md text-center">Mewgenics</p>
+                  </div>
+                  <div class="w-40 shrink-0 snap-start">
+                    <img src="https://cdn2.steamgriddb.com/thumb/36d6a670240681fbbf69cbba0c9065ce.jpg" class="w-40 h-60" />
+                    <p class="text-md text-center">Zelda: Twilight Princess</p>
+                  </div>
+                  <div class="w-40 shrink-0 snap-start">
+                    <img src="https://cdn2.steamgriddb.com/thumb/078d2a1275f0d53cda67d165440aeb50.jpg" class="w-40 h-60" />
+                    <p class="text-md text-center">Animal Crossing: New Horizons</p>
                   </div>
                 </div>
               </Container>
@@ -57,12 +69,12 @@ function Home() {
                 <h2 class="text-xl">Games I want to play!</h2>
                 <div class="flex p-4 gap-2">
                   <div>
-                    <img src="https://cdn2.steamgriddb.com/thumb/f519bcff8be73f7baa7123d387778ba0.jpg" class="w-69.5 h-60" />
-                    <p class="text-md text-center">Hey you, Pikachu!</p>
+                    <img src="https://cdn2.steamgriddb.com/thumb/7ffb495169d85f0505b894fa685a79f8.jpg" class="w-40 h-60" />
+                    <p class="text-md text-center">Pokémon XD</p>
                   </div>
                   <div>
-                    <img src="https://cdn2.steamgriddb.com/thumb/f711cc70dbdab88f32389ec84e56a242.jpg" class="w-40 h-60" />
-                    <p class="text-md text-center">The Legend of Zelda: Ocarina of Time</p>
+                    <img src="https://cdn2.steamgriddb.com/thumb/cb8653380b212fffc4e4cd2e6144bd94.jpg" class="w-40 h-60" />
+                    <p class="text-md text-center">Rhythm Heaven Fever</p>
                   </div>
                 </div>
               </Container>
@@ -163,9 +175,9 @@ function Home() {
                 </div>
 
                 <Container>
-                  <h3 class="text-center text-xl text-shadow-2xs/60 text-shadow-black">MOMONGA</h3>
+                  <h3 class="text-center text-xl text-shadow-2xs/60 text-shadow-black">Bleh</h3>
                   <p class="text-xs text-gray-300/60 text-center pb-2 hidden">(update from time to time)</p>
-                  <img src="https://i.pinimg.com/736x/a8/91/21/a8912190c45ff6822c4d0120fbaf00b5.jpg" class="rounded-xl" />
+                  <img src="https://i.pinimg.com/736x/da/a3/18/daa318558cc2574ffdbaab29d607cc0e.jpg" class="rounded-xl" />
                 </Container>
 
                 <div class="hidden">
