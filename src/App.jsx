@@ -35,7 +35,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/blog" element={<Blog />} />
-            <Route path="/FORBIDDEN" element={<WhoIam />} />
+            <Route path="/whoiam" element={<WhoIam />} />
             <Route path="/books" element={<Books />} />
             <Route path="/arts" element={<Arts />} />
             <Route path="/games" element={<Games />} />

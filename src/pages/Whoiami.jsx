@@ -62,7 +62,10 @@ function WhoIam() {
                     </Container>
                     <Container>
                         <h1 class="text-xl">Things i Like</h1>
-
+                        <div class="p-4">
+                            <p>I like a lot of things. Among them are playing games, drawing on my drawing tablet, spending time with my girlfriend and family, watching a movie (which I’ve probably watched an infinite number of times), watching some videos on YouTube, and always learning new technologies and techniques so I can keep improving.
+                            </p>
+                        </div>
                     </Container>
                 </div>
             </Divmain >
