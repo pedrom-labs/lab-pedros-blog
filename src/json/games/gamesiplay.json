@@ -1,17 +1,5 @@
 [
   {
-    "title": "TBOI: Repentace",
-    "img": "./games/tboi.png",
-    "year": "2020",
-    "platform": "PC"
-  },
-  {
-    "title": "Mewgenics",
-    "img": "https://cdn2.steamgriddb.com/thumb/9540c301770b9ea54f43649a8e10e2aa.jpg",
-    "year": "2026",
-    "platform": "PC"
-  },
-  {
     "title": "Zelda TP",
     "img": "https://cdn2.steamgriddb.com/thumb/36d6a670240681fbbf69cbba0c9065ce.jpg",
     "year": "2006",

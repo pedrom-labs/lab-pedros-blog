@@ -35,8 +35,8 @@ function Home() {
                     <Container>
                       <div class="h-30">
                         <h2 class="text-2xl">Status Update</h2>
-                        <p class="text-xs text-gray-300/60">Posted 10/06/2026</p>
-                        <p class="text-md p-1">overthinking :(</p>
+                        <p class="text-xs text-gray-300/60">Posted 10/14/2026</p>
+                        <p class="text-md p-1">I won a 3DS old</p>
                       </div>
                     </Container>
                   </div>
@@ -47,14 +47,6 @@ function Home() {
               <Container>
                 <h2 class="text-xl">Games I've been playing!</h2>
                 <div class="flex w-full min-w-0 gap-2 overflow-x-auto snap-x snap-mandatory p-4">
-                  <div class="w-40 shrink-0 snap-start">
-                    <img src="./games/tboi.png" class="w-40 h-60" />
-                    <p class="text-md text-center">TBOI: Rebirth</p>
-                  </div>
-                  <div class="w-40 shrink-0 snap-start">
-                    <img src="https://cdn2.steamgriddb.com/thumb/9540c301770b9ea54f43649a8e10e2aa.jpg" class="w-40 h-60" />
-                    <p class="text-md text-center">Mewgenics</p>
-                  </div>
                   <div class="w-40 shrink-0 snap-start">
                     <img src="https://cdn2.steamgriddb.com/thumb/36d6a670240681fbbf69cbba0c9065ce.jpg" class="w-40 h-60" />
                     <p class="text-md text-center">Zelda: Twilight Princess</p>
