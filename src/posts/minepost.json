@@ -1,5 +1,13 @@
 [
   {
+    "title": "I restart ever thing",
+    "hour": "11:48 pm 09/30/2026",
+    "imgs1": "/public/img-minecraft/imgsM-post-1.png",
+    "imgs2": "/public/img-minecraft/imgsM-post-2.png",
+    "imgs3": "/public/img-minecraft/imgsM-post-3.png",
+    "content": "I fixed the OpenGL bug, but unfortunately, my world got corrupted, and even the backups didn't work. So I created a new world where I spawned near a village, and now this is where I live. I'm going to build a wall around the entire village to help protect the villagers from zombies, and I'm also thinking about making some iron golems to act as the town's police force."
+  },
+  {
     "title": "Bad News :(",
     "hour": "17:01 am 09/30/2026",
     "content": "Unfortunately, the mod I used to get my skin and cape in Minecraft 1.2.5 stopped working because my graphics card driver no longer supports the OpenGL used in such an old version of the game, and that ended up breaking the whole thing :( including my world."

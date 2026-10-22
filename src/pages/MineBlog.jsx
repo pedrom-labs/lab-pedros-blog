@@ -18,6 +18,19 @@ function Mineblog() {
                                         <h2 class="text-4xl font-snpro text-white">{post.title}</h2>
                                         <span class="text-[13px] align-text-top font-snpro text-white">{post.hour}</span>
                                     </div>
+                                    {post.imgs1 &&
+                                        <div class="flex gap-2 overflow-x-auto snap-x snap-mandatory p-4">
+                                            <div class="shrink-0 snap-start">
+                                                <img src={post.imgs1} class="rounded-2xl h-100" />
+                                            </div>
+                                            <div class="shrink-0 snap-start">
+                                                <img src={post.imgs2} class="rounded-2xl h-100" />
+                                            </div>
+                                            <div class="shrink-0 snap-start">
+                                                <img src={post.imgs3} class="rounded-2xl h-100" />
+                                            </div>
+                                        </div>
+                                    }
                                     <div class="p-4">
                                         <img src={post.img} class="rounded-2xl" />
                                         <p>{post.content}</p>
